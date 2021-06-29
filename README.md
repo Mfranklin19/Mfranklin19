@@ -1,6 +1,6 @@
-Hi, I’m **Michael Franklin**
-I’m interested in Game Design, Graphics Programming, and just software development in general :)
-I’m currently learning OpenGL and Vulkan while working as a software developer at TDS
+Hi, I’m **Michael Franklin** \
+I’m interested in Game Design, Graphics Programming, and just software development in general :) \
+I’m currently learning OpenGL and Vulkan while working as a software developer at TDS \
 You can reach me at michaelfranklin208@outlook.com
 
 <!---
